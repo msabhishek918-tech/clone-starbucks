@@ -1,0 +1,135 @@
+
+.left-section{
+    background-color: #9e0025;
+    margin-top: 35px;
+    height: 540px;
+}
+
+.left-image{
+    width: 633px;
+    height: 540px;
+}
+.right-section{
+    max-width: 50%;
+}
+.header-section{
+    margin-left: 818px;
+    margin-right: 83px;
+    margin-top: -457px;
+    margin-bottom: 68px;
+    font-size: 22px;
+    color: white;
+    width: 310px;
+}
+.button-order-coffe{
+    border-radius: 25px;
+    background-color: aliceblue;
+    color: #035603;
+    border: none;
+    width: 176px;
+    height: 33px;
+    margin-left: 68px;
+    margin-top: 34px;
+    font-weight: 700;
+    font-family: Rboto,Arial;
+
+}
+.button-order-coffe:hover{
+    background-color: rgba(255, 255, 255, 0.537);
+}
+.content{
+    padding-top: 31px;
+    font-weight: 500;
+    margin-left: -31px;
+    margin-top: 9px;
+}
+
+.left-section2{
+    background-color:#006241;
+    margin-top: 35px;
+    height: 540px;
+}
+.right-image2{
+    width: 633px;
+    height: 540px;
+    margin-left: 632px;
+}
+.header-section2{
+    margin-left: 135px;
+    margin-right: 160px;
+    margin-top: -451px;
+    margin-bottom: 68px;
+    font-size: 22px;
+    color: white;
+    width: 310px;
+}
+.left-image2{
+    width: 633px;
+    height: 540px;
+}
+.right-section2{
+    max-width: 50%;
+}
+.button-order-coffe2{
+    border-radius: 25px;
+    background-color: aliceblue;
+    color: #035603;
+    border: none;
+    width: 176px;
+    height: 33px;
+    margin-left: 68px;
+    margin-top: 34px;
+    font-weight: 700;
+    font-family: Rboto,Arial;
+}
+.button-order-coffe2:hover {
+    background-color: rgba(255, 255, 255, 0.537);
+}
+.content2{
+    padding-top: 31px;
+    font-weight: 500;
+    margin-left: -31px;
+    margin-top: 9px;
+}
+.left-section1{
+    background-color: #006241;
+    margin-top: 35px;
+    height: 540px;
+}
+.left-section3{
+    background-color:#aa1d38;
+    margin-top: 35px;
+    height: 540px;
+}
+.left-section4{
+    background-color:#f1f0e4;
+    margin-top: 35px;
+    height: 540px;
+}
+.header-section4{
+    margin-left: 818px;
+    margin-right: 83px;
+    margin-top: -457px;
+    margin-bottom: 68px;
+    font-size: 22px;
+    color: #035603;
+    width: 310px;
+}
+.content4{
+    padding-top: 31px;
+    font-weight: 500;
+    margin-left: -31px;
+    margin-top: 9px;
+}
+.button-order-coffe4{
+    border-radius: 25px;
+    background-color: #035603;
+    color:white;
+    border: none;
+    width: 176px;
+    height: 33px;
+    margin-left: 68px;
+    margin-top: 34px;
+    font-weight: 700;
+    font-family: Rboto,Arial;
+}
